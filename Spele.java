@@ -179,7 +179,6 @@ public class Spele{
 		move = false;
 		
 		if (loki.get(id).size()==0) {
-			System.out.println("HUMAN WINS");
 			return -1;
 			
 		}
